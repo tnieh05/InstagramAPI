@@ -1,0 +1,42 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 70%;
+	margin: 5% auto 0 auto;
+	text-align: center;
+}
+
+select option{
+	height: 40px;
+}
+
+.drop-down select{
+	height: 30px;
+	width: 400px;
+	font-size: 20px;
+	border: 1px solid lightgray;
+}
+
+li {
+	list-style: none;
+	float: left;
+}
+
+img {
+	width: 300px;
+	height: auto;
+	margin-top: 30px;
+	padding: 10px;
+	
+}
+
+.search-results {
+	width: 80%;
+	margin: 0 auto;
+
+}
